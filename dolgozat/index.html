@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Termékek listája</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Termékek listája</h1>
+
+    <ul id="productList"></ul>
+
+    <script>
+        fetch('vmi.json')
+            .then(response => response.json())
+            .then(data => {
+                const productListElement = document.getElementById('productList');
+
+                data.products.forEach(product => {
+                    const listItem = document.createElement('li');
+
+                    listItem.innerHTML = `
+                        <h2>${product.name}</h2>
+                        <p>ID: ${product.id}</p>
+                        <p>${product.price} Ft</p>
+                        <p>${product.description}</p>
+                        <img src="${product.image_url}" alt="${product.name}" />
+                    `;
+
+                    productListElement.appendChild(listItem);
+                });
+            })
+            .catch(error => console.error(error));
+    </script>
+</body>
+
+</html>

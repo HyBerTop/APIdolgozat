@@ -1,0 +1,7 @@
+Használati útmutató a webalkalmazás használatához.
+
+1. cmd indítása a "dolgozat" mappában. 
+
+2. "http-server" kimásolása és beillesztése a konzolba.
+
+3. A web-hez a "http://127.0.0.1:8080" url beillesztésével fog tudni hozzáférni.

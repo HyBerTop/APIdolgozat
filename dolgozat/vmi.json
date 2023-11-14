@@ -1,0 +1,137 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop",
+            "price": 899.99,
+            "description": "Erőteljes laptop, ideális a produktív munkához és játékhoz.",
+            "image_url": "https://example.com/laptop.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Okostelefon",
+            "price": 499.99,
+            "description": "Kiváló minőségű okostelefon, gyors processzorral és kiváló kamerával.",
+            "image_url": "https://example.com/smartphone.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Televízió",
+            "price": 799.99,
+            "description": "Nagy felbontású LED televízió, lenyűgöző képminőséggel.",
+            "image_url": "https://example.com/tv.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Hangszóró",
+            "price": 129.99,
+            "description": "Vezeték nélküli hangszóró, tiszta hangzással és hosszú üzemidővel.",
+            "image_url": "https://example.com/speaker.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Fitness Tracker",
+            "price": 59.99,
+            "description": "Okos fitness karkötő, pulzusmérővel és alvásfigyeléssel.",
+            "image_url": "https://example.com/fitnesstracker.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Kávéfőző",
+            "price": 39.99,
+            "description": "Praktikus kávéfőző, gyors és egyszerű használattal.",
+            "image_url": "https://example.com/coffeemaker.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Szőnyeg",
+            "price": 79.99,
+            "description": "Stílusos szőnyeg, kellemes tapintással és tartós kialakítással.",
+            "image_url": "https://example.com/rug.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Asztali lámpa",
+            "price": 29.99,
+            "description": "Modern asztali lámpa, állítható fényerővel és hangulatvilágítással.",
+            "image_url": "https://example.com/lamp.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Hátizsák",
+            "price": 49.99,
+            "description": "Kényelmes hátizsák, több zsebbel és párnázott vállpántokkal.",
+            "image_url": "https://example.com/backpack.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Edzőcipő",
+            "price": 69.99,
+            "description": "Könnyű és kényelmes edzőcipő, ideális sportoláshoz.",
+            "image_url": "https://example.com/sneakers.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Konyhai robotgép",
+            "price": 129.99,
+            "description": "Erős és hatékony konyhai segítő, sokoldalú funkcionalitással.",
+            "image_url": "https://example.com/foodprocessor.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Esernyő",
+            "price": 19.99,
+            "description": "Szélálló esernyő, tartós kialakítással és könnyű kezelhetőséggel.",
+            "image_url": "https://example.com/umbrella.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Póló",
+            "price": 14.99,
+            "description": "Kényelmes pamut póló, divatos dizájnnal.",
+            "image_url": "https://example.com/tshirt.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Kerti szék",
+            "price": 34.99,
+            "description": "Kényelmes kerti szék, időjárásálló anyaggal és összecsukható kialakítással.",
+            "image_url": "https://example.com/gardenchair.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Bluetooth fejhallgató",
+            "price": 79.99,
+            "description": "Vezeték nélküli Bluetooth fejhallgató, kristálytiszta hangzással.",
+            "image_url": "https://example.com/headphones.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Vízálló túrahátizsák",
+            "price": 89.99,
+            "description": "Robusztus és vízálló túrahátizsák, sok tárolóhellyel és kényelmes pántokkal.",
+            "image_url": "https://example.com/hikingbackpack.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Üvegváza",
+            "price": 24.99,
+            "description": "Elegáns üvegváza, ideális díszítőelem a lakásban.",
+            "image_url": "https://example.com/vase.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Játékkonzol",
+            "price": 299.99,
+            "description": "Legújabb generációs játékkonzol, lenyűgöző grafikával és gyors processzorral.",
+            "image_url": "https://example.com/gamingconsole.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Ezüst nyaklánc",
+            "price": 59.99,
+            "description": "Ezüst nyaklánc, stílusos kialakítással és időtlen dizájnnal.",
+            "image_url": "https://example.com/necklace.jpg"
+        }
+    ]
+}

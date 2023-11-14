@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^1.6.1",
+    "json-server": "^0.17.4"
+  }
+}
